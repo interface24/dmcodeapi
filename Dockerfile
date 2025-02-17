@@ -18,4 +18,4 @@ RUN pip install --no-cache-dir flask treepoem
 EXPOSE 5000
 
 # Command to run the application
-CMD ["python", "barcode_api.py"]
+CMD ["python", "app.py"]
