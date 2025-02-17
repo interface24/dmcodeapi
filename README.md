@@ -16,3 +16,6 @@ Use the Dockerfile and it will automatically start the server with the API.
 
 # URL
 ```http://127.0.0.1:5000/datamatrix?data=Hallo%20Welt ```
+
+# curren Problems
+Due to gohstscript the response from the server can take at least 4s.
