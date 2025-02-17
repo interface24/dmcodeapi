@@ -7,9 +7,7 @@ Treepoem uses the ghostscript library and must be manually installed on the host
 apt-get install ghostscript
 
 ## Mac
-apt-get install ghostscript
-
-
+brew install ghostscript
 
 # Docker
 Use the Dockerfile and it will automatically start the server with the API.
